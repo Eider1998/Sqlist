@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539955458 source:c:\赵静 code blocks\有序链表的建立\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
